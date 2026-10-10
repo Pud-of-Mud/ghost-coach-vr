@@ -20,12 +20,12 @@ public class CoachColorScript : MonoBehaviour
             newColor = Color.green;
             coachMesh.GetComponent<Renderer>().material.color = newColor;
         }
-       else if (score <= .7)
+       else if (score >= .7)
         {
             newColor = Color.yellow;
             coachMesh.GetComponent<Renderer>().material.color = newColor;
         }
-       else if (score <= .5)
+       else if (score >= .5)
         {
             newColor = Color.orange;
             coachMesh.GetComponent<Renderer>().material.color = newColor;

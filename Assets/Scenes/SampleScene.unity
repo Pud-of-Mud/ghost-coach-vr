@@ -899,6 +899,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a24ab4a2f47febc4c84300caa5094207, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1548568754}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: a24ab4a2f47febc4c84300caa5094207, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1548568755}
   m_SourcePrefab: {fileID: 100100000, guid: a24ab4a2f47febc4c84300caa5094207, type: 3}
 --- !u!1 &1548568749 stripped
 GameObject:
@@ -961,6 +964,20 @@ MonoBehaviour:
   coachMesh: {fileID: 1548568750}
   newColor: {r: 0, g: 0, b: 0, a: 0}
   score: 0
+--- !u!114 &1548568755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1548568749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 943e4f2f99940f04da99c22446403ab8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  animator: {fileID: 1548568753}
+  ButtonPressed: 0
 --- !u!1 &1598269138
 GameObject:
   m_ObjectHideFlags: 0
