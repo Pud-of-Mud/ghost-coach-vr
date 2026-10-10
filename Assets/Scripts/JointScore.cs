@@ -14,7 +14,7 @@ public class JointScore
     public float CalculateScore(Vector3 CoachPosition, Vector3 RealPosition)
     {
         float Distance = (CoachPosition - RealPosition).magnitude;
-        return Math.Pow(ExponentialConstant, Distance);
+        return (float) Math.Pow(ExponentialConstant, Distance);
     }
 }
 
