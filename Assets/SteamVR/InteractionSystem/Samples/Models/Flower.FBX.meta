@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: a3871f8445d0e6c42a079739574edb38
 timeCreated: 1462499800
-licenseType: Store
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -75,10 +75,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Models/Flower.FBX
-  uploadId: 638640

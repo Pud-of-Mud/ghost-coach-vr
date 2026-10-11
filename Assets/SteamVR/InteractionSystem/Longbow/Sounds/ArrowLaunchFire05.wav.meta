@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 652445d40bda96847993b3a366b80b34
 timeCreated: 1439252809
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   serializedVersion: 6
   defaultSettings:
@@ -19,10 +19,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire05.wav
-  uploadId: 638640

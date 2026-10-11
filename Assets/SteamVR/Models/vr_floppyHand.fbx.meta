@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 395115150fc0faf40abd1994e7405303
 timeCreated: 1531871793
-licenseType: Store
+licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -115,10 +115,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Models/vr_floppyHand.fbx
-  uploadId: 638640

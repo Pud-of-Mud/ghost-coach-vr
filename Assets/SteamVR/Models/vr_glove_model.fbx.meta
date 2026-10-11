@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 02d2c3f5b5ca1014c8fb700e729167ae
 timeCreated: 1520893037
-licenseType: Store
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -140,10 +140,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Models/vr_glove_model.fbx
-  uploadId: 638640

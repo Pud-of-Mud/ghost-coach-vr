@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 5d44bb3b4714e2b4da3b93d3c921a1e6
 timeCreated: 1548357655
-licenseType: Store
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowNormal.png
-  uploadId: 638640

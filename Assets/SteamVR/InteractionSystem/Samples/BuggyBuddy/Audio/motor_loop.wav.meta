@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1bf411093ae4b6e46859fe07ef76d5b6
 timeCreated: 1520480856
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
@@ -22,10 +22,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Audio/motor_loop.wav
-  uploadId: 638640

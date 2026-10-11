@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4f3a55cce07b5da49ad2dfb86baea564
 timeCreated: 1521569618
-licenseType: Store
+licenseType: Free
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
@@ -11,10 +11,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Input/Editor/SteamVR_Input_LiveWindow.cs
-  uploadId: 638640

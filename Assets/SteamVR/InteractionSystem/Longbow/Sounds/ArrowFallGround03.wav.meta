@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: c848d318c783da14d920cdb75f1ee7ac
 timeCreated: 1436565700
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   serializedVersion: 6
   defaultSettings:
@@ -20,10 +20,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround03.wav
-  uploadId: 638640

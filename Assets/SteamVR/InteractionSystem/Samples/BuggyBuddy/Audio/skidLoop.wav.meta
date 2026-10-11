@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: d9eaf2bf45acf3449ab5958696f305d3
 timeCreated: 1520480857
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
@@ -22,10 +22,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Audio/skidLoop.wav
-  uploadId: 638640

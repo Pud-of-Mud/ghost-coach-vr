@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: c3b3083cc66322049822d98fa4c15fd6
 timeCreated: 1547765602
-licenseType: Store
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Input/Editor/Resources/Icons/handmask_Ring.png
-  uploadId: 638640

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 6a7c27a46b80a6445bffe44ea9e91cd0
 timeCreated: 1529518097
-licenseType: Store
+licenseType: Pro
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
@@ -14,10 +14,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Scripts/FlowerPlanted.cs
-  uploadId: 638640

@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 5697c26ee2ef0c848996640f6a3d3432
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png
-  uploadId: 638640
 TextureImporter:
   internalIDToNameTable:
   - first:

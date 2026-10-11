@@ -1,4 +1,4 @@
-﻿# SteamVR Unity Plugin - v2.8.0 (sdk 2.0.10)
+﻿# SteamVR Unity Plugin - v2.8.5 (sdk 2.12.14)
 
 Copyright (c) Valve Corporation, All rights reserved.
 
@@ -23,6 +23,8 @@ Quick Start:
 
  For a more extensive example including picking up, throwing objects, and animated hands see the Interaction System example at ​SteamVR/Interaction System/Samples/Interactions_Example
 
+ To get the Interaction System example working with URP just open the SteamVR/SteamVR_URP_Materials.unity bundle to replace the Built-in materials with URP
+
 
 Support:
 
@@ -35,6 +37,39 @@ Input and Steam:
 
  If you publish your game to steam you can let users change their input bindings while the game is not running by setting the location of your action manifest. On the steamworks partner site go to the Application settings, and the Virtual Reality Section. At the bottom you'll see a radio button to designate your title as a SteamVR Input application. You then can set the location of your action manifest. In older versions of the plugin this was next to the executable. In versions 2.3.3 and above this is in [GameName]_Data/StreamingAssets/SteamVR/actions.json.
  
+Changes for 2.8.5
+
+ * Updating OpenVR sdk to 2.12.14
+
+ * Unity 6 fixes
+
+ * Added support for DX12 (Unity 6 default). Note: A Unity bug makes the Built-in Render Pipeline incompatible with single pass rendering. Multipass is required, or switch to URP. 
+
+Changes for 2.8.4
+
+ * Unity 6 fixes
+
+ * Fixed various warnings
+
+ * Using the new Input System no longer throws errors in sample scene
+
+ * Added SteamVR/SteamVR_URP_Materials.unity for easier URP compatibility
+ 
+Changes for 2.8.3
+
+ * Updating OpenVR sdk to 2.5.1
+
+ * Fixed a few editor crashes on exit
+ 
+ * Using WaitFrameSync in main loop for overlay apps
+
+ * Poses predict one frame ahead in overlay apps
+
+ * Added overlay example - SteamVR_FirstPersonOverlay
+
+ * Linux crash fix (action manifest string was broken)
+
+ * Added support for GetActionBindingInfo to all SteamVR_Actions
 
 Changes for 2.8.0
 

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 065a5d485ea153f4581883639e62f352
 timeCreated: 1499897678
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -62,10 +62,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Textures/TargetLO_target_Normal.png
-  uploadId: 638640

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: b6fb03c27a50bde4c90aa0b2d201eab7
 timeCreated: 1439252809
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   serializedVersion: 6
   defaultSettings:
@@ -19,10 +19,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Sounds/TorchFireLoop01.wav
-  uploadId: 638640

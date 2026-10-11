@@ -1,0 +1,16 @@
+{
+  "app_key": "application.generated.unity.ghostcoachvr.exe",
+  "bindings": {
+    "/actions/default": {
+      "poses": [
+{
+  "output": "/actions/default/in/Waist",
+  "path": "/user/waist/pose/raw"
+}
+]
+    }
+  },
+  "controller_type": "vive_tracker_waist",
+  "description": "",
+  "name": "Waist"
+}

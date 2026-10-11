@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 35f6da91b7f761e45b32d5f613a851cd
 timeCreated: 1522023013
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Models/black_floor_metal_NRM.jpg
-  uploadId: 638640

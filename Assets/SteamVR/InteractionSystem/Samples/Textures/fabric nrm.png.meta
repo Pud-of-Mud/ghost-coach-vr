@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 7927253fa6653fe4f86150e8a01de6cc
 timeCreated: 1532721854
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Textures/fabric nrm.png
-  uploadId: 638640

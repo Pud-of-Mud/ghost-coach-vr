@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 36fa5b356bc9b9f4792bb2c38b8d8b5f
 timeCreated: 1544852187
-licenseType: Store
+licenseType: Pro
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
@@ -69,10 +69,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Input/SteamVR_Input.cs
-  uploadId: 638640

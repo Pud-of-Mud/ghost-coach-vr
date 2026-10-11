@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: c7d922ead57c2c34ea7da4ad4c05bd61
 timeCreated: 1531870270
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Models/Materials/AlienHand_AlbedoTransparency.png
-  uploadId: 638640

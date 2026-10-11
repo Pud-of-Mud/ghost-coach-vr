@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 0e96081d793e1994086123e2505bcc0e
 timeCreated: 1447096547
-licenseType: Store
+licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -236,10 +236,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportMarker.fbx
-  uploadId: 638640

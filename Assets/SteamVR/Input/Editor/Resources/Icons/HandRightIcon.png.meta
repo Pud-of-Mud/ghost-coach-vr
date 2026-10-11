@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 985915d4db439114797fb72a46387d71
 timeCreated: 1547857461
-licenseType: Store
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -57,10 +57,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/Input/Editor/Resources/Icons/HandRightIcon.png
-  uploadId: 638640

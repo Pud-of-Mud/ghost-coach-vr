@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1acda2a2584a8fb4683ea56799b27fa0
 timeCreated: 1435940722
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -53,10 +53,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png
-  uploadId: 638640

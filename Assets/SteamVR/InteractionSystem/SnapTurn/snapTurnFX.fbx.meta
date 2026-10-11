@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 62dcc32f358950744a33cf3ced87eaed
 timeCreated: 1568160751
-licenseType: Store
+licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -93,10 +93,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/SnapTurn/snapTurnFX.fbx
-  uploadId: 638640

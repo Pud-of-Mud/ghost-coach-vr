@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 27916dbd53464474fbd89dc6b88228ab
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/BuggyUI/RPMCounterBorder.png
-  uploadId: 638640
 TextureImporter:
   internalIDToNameTable:
   - first:

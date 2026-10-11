@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 47b5e90896f0e004c85bebd26e6057e2
 timeCreated: 1454643303
-licenseType: Store
+licenseType: Pro
 AudioImporter:
   serializedVersion: 6
   defaultSettings:
@@ -20,10 +20,3 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerLoop.wav
-  uploadId: 638640

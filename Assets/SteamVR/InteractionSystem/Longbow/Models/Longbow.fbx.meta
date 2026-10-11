@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: e694f124da5bfd84d97e67e8c2719420
 timeCreated: 1453848738
-licenseType: Store
+licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -203,10 +203,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Models/Longbow.fbx
-  uploadId: 638640

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: cc667b3995f186347b95c15abbb1c3c8
 timeCreated: 1530228560
-licenseType: Store
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -85,10 +85,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/Squishy/Textures/gooNrm.png
-  uploadId: 638640

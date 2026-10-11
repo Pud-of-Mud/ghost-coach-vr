@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: aa45b5fa956e6234eb161fc63113b33a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/UI/Roundsquare.png
-  uploadId: 638640
 TextureImporter:
   internalIDToNameTable:
   - first:

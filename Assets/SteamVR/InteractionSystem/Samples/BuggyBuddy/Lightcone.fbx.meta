@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 43c6bdf072a75974186a41645b0aaca5
 timeCreated: 1534885938
-licenseType: Store
+licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -74,10 +74,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32647
-  packageName: SteamVR Plugin
-  packageVersion: 2.8.0 (sdk 2.0.10)
-  assetPath: Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Lightcone.fbx
-  uploadId: 638640
